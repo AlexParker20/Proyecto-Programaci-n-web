@@ -1,0 +1,8 @@
+Alumno:   
+CURP Alumno: 
+Tutor:   
+CURP Tutor: 
+Email Tutor: 
+Teléfono Tutor: 
+Grado a Inscribirse: 
+-----------------------------
